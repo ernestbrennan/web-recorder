@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "strict": false,
+    "skipLibCheck": true,
+    "downlevelIteration": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "removeComments": true,
+    "preserveConstEnums": true
+  },
+  "include": [
+    "resources/js/**/*"
+  ]
+}

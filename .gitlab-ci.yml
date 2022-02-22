@@ -1,0 +1,8 @@
+---
+include:
+  - project: 'hurtrade/hurtrade-devops'
+    ref: stage
+    file: 'ci/ci_common.yml'
+  - project: 'hurtrade/hurtrade-devops'
+    ref: stage
+    file: 'ci/ci-lara.yml'
